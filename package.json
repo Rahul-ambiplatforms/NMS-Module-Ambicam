@@ -1,5 +1,5 @@
 {
-  "name": "NMS-SDK-AMBICAM",
+  "name": "nms-sdk-ambicam",
   "version": "2.6.2",
   "description": "A Node.js implementation of RTMP Server",
   "bin": "bin/app.js",
